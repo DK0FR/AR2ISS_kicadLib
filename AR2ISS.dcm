@@ -24,4 +24,8 @@ K ARM Cortex-M4 STM32L5 STM32L5x2
 F http://www.st.com/st-web-https://www.st.com/resource/en/datasheet/stm32l552cc.pdf
 $ENDCMP
 #
+$CMP TSC101B
+F https://www.st.com/resource/en/datasheet/tsc101.pdf
+$ENDCMP
+#
 #End Doc Library

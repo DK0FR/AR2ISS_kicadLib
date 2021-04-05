@@ -6,6 +6,11 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP NCV7608
+D Octal Configurable Low/High Side Driver
+F https://www.onsemi.com/pdf/datasheet/ncv7608-d.pdf
+$ENDCMP
+#
 $CMP R
 D Resistor
 K R res resistor

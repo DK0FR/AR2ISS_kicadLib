@@ -115,6 +115,11 @@ K ARM Cortex-M4 STM32L5 STM32L5x2
 F http://www.st.com/st-web-https://www.st.com/resource/en/datasheet/stm32l552cc.pdf
 $ENDCMP
 #
+$CMP TLE75602-ESH
+D SPIDER+ 12V SPI Driver for Enhanced Relay Control
+F https://www.infineon.com/dgdl/Infineon-TLE75602-ESH-DS-v01_00-EN.pdf?fileId=5546d4626102d35a0161099afcdc78fe
+$ENDCMP
+#
 $CMP TSC101B
 F https://www.st.com/resource/en/datasheet/tsc101.pdf
 $ENDCMP
